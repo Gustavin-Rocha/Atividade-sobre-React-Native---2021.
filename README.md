@@ -1,2 +1,2 @@
-# Atividade-sobre-React-Native---2021.
+# Atividade sobre Introdução ao React Native - 2021.
 Trabalho 12 de Pam.
